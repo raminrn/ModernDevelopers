@@ -1,0 +1,66 @@
+.landing{
+    font-family: 'Nunito', sans-serif;
+    color: #ffffff;
+}
+
+.primary{ 
+    color: #426BDD !important;
+}
+
+.home-left{
+    padding-top: 9em;
+}
+
+.home-description{
+    text-align: center;
+}
+
+.home-right{
+   padding-top: 10em;
+   background: #fff;;
+   height: 100vh;
+   color: black;
+}
+
+.heading{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 4.5rem;
+}
+
+.heading-left{
+    font-size: 4.5em;
+}
+
+.landing-inner{
+    padding: 0 !important;
+}
+
+.sign-in{
+    background: #00c4cc;
+}
+
+.fa-search, .fa-pencil-alt, .fa-users{
+    font-size: 1em;
+    margin-right: 7px;
+  }
+
+@media  (max-width: 768px){
+    .home-left{
+        padding-top: 5em !important;
+    }
+
+    .home-right{
+        padding-top: 4em;
+        height: 62vh;
+    }
+
+    .heading{
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 3rem;
+    }
+
+    .heading-left{
+        font-size: 3em;
+    }
+    
+}

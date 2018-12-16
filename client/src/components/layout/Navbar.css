@@ -1,0 +1,6 @@
+.navbar-brand{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.navbar-brand:hover{
+    color: rgba(255,255,255,.75) !important;
+}
